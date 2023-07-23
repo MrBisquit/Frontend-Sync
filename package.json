@@ -1,0 +1,11 @@
+{
+  "name": "frontendsync",
+  "version": "1.0.0",
+  "description": "Easily sync data between frontend and backend seamlessly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MrBisquit",
+  "license": "MIT"
+}
